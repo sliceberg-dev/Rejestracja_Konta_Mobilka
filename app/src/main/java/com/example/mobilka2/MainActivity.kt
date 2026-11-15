@@ -35,18 +35,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    /********************************************************
-     * nazwa funkcji: validateAndRegister
-     * parametry wejściowe: brak
-     * wartość zwracana: brak
-     * autor: 00000000000
-     * opis: Funkcja pobiera wprowadzony adres e-mail,
-     *       hasło oraz powtórzone hasło. Następnie sprawdza,
-     *       czy adres e-mail zawiera znak '@' oraz czy
-     *       podane hasła są identyczne.
-     *       W zależności od wyniku walidacji wyświetla
-     *       odpowiedni komunikat w obszarze komunikatów.
-     ********************************************************/
+
     private fun validateAndRegister() {
         val email = binding.etEmail.text.toString().trim()
         val password = binding.etPassword.text.toString()
