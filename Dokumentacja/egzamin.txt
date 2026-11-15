@@ -1,0 +1,7 @@
+System operacyjny: Windows 11 
+
+Środowisko programistyczne: Android Studio
+
+Język programowania: Kotlin
+
+Nazwa emulowanego urządzenia: Medium Phone API 37.0
