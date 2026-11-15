@@ -6,10 +6,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.mobilka2.databinding.ActivityMainBinding
 
-/**
- * Główna aktywność aplikacji rejestracji konta.
- * Autor: 00000000000
- */
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
